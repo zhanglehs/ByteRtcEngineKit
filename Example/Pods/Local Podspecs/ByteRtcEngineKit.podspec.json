@@ -1,0 +1,29 @@
+{
+  "name": "ByteRtcEngineKit",
+  "version": "1.1.0",
+  "summary": "ByteRtcEngineKit is an realtime communication SDK of IOS",
+  "homepage": "https://github.com/zhanglehs/ByteRtcEngineKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangle": "zhangle86@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/zhanglehs/ByteRtcEngineKit.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ByteRtcEngineKit/Classes/**/*",
+  "dependencies": {
+    "PodRTC": [
+      "65.8.0.0"
+    ],
+    "Socket.IO-Client-Swift": [
+      "~> 12.0.0"
+    ]
+  }
+}

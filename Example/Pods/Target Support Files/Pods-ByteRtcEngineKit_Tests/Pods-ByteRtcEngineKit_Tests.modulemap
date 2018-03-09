@@ -1,0 +1,6 @@
+framework module Pods_ByteRtcEngineKit_Tests {
+  umbrella header "Pods-ByteRtcEngineKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

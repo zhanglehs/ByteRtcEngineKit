@@ -1,0 +1,25 @@
+PODS:
+  - ByteRtcEngineKit (1.1.0):
+    - PodRTC (= 65.8.0.0)
+    - Socket.IO-Client-Swift (~> 12.0.0)
+  - PodRTC (65.8.0.0)
+  - Socket.IO-Client-Swift (12.0.0):
+    - StarscreamSocketIO (~> 8.0.7)
+  - StarscreamSocketIO (8.0.7)
+
+DEPENDENCIES:
+  - ByteRtcEngineKit (from `../`)
+
+EXTERNAL SOURCES:
+  ByteRtcEngineKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ByteRtcEngineKit: 6e1c45537c9eb512c76201e3bbd3a3b11449fbbc
+  PodRTC: 561a2e8f05224f7ca3090dd27f507478337b12f4
+  Socket.IO-Client-Swift: 5b0154b42b3892bfb4c44fa138cbeb8afec4f6ef
+  StarscreamSocketIO: 00b54e4208481ca5cef089545353aaf126bae16d
+
+PODFILE CHECKSUM: 2cb9c7d10bf58e34a16ce1da72dae13a75f99463
+
+COCOAPODS: 1.4.0
