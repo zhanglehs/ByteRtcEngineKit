@@ -1,6 +1,6 @@
 use_frameworks!
-target 'ByteRtcEngineKit_Tests' do
-  pod 'ByteRtcEngineKit', :path => '../'
+target 'ByteRtcCore_Tests' do
+  pod 'ByteRtcCore', :path => '../'
   
   
 end

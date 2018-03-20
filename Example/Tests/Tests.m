@@ -1,6 +1,6 @@
 //
-//  ByteRtcEngineKitTests.m
-//  ByteRtcEngineKitTests
+//  ByteRtcCoreTests.m
+//  ByteRtcCoreTests
 //
 //  Created by zhangle86@qq.com on 03/20/2018.
 //  Copyright (c) 2018 zhangle86@qq.com. All rights reserved.

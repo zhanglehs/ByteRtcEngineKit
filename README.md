@@ -1,9 +1,9 @@
-# ByteRtcEngineKit
+# ByteRtcCore
 
-[![CI Status](http://img.shields.io/travis/zhangle86@qq.com/ByteRtcEngineKit.svg?style=flat)](https://travis-ci.org/zhangle86@qq.com/ByteRtcEngineKit)
-[![Version](https://img.shields.io/cocoapods/v/ByteRtcEngineKit.svg?style=flat)](http://cocoapods.org/pods/ByteRtcEngineKit)
-[![License](https://img.shields.io/cocoapods/l/ByteRtcEngineKit.svg?style=flat)](http://cocoapods.org/pods/ByteRtcEngineKit)
-[![Platform](https://img.shields.io/cocoapods/p/ByteRtcEngineKit.svg?style=flat)](http://cocoapods.org/pods/ByteRtcEngineKit)
+[![CI Status](http://img.shields.io/travis/zhangle86@qq.com/ByteRtcCore.svg?style=flat)](https://travis-ci.org/zhangle86@qq.com/ByteRtcCore)
+[![Version](https://img.shields.io/cocoapods/v/ByteRtcCore.svg?style=flat)](http://cocoapods.org/pods/ByteRtcCore)
+[![License](https://img.shields.io/cocoapods/l/ByteRtcCore.svg?style=flat)](http://cocoapods.org/pods/ByteRtcCore)
+[![Platform](https://img.shields.io/cocoapods/p/ByteRtcCore.svg?style=flat)](http://cocoapods.org/pods/ByteRtcCore)
 
 ## Example
 
@@ -13,17 +13,17 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-ByteRtcEngineKit is available through [CocoaPods](http://cocoapods.org). To install
+ByteRtcCore is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'ByteRtcEngineKit'
+pod 'ByteRtcCore'
 ```
 
 ## Author
 
-zhangle86@qq.com, zhangle86@qq.com
+zhangle86@qq.com, zhangle86@gmail.com
 
 ## License
 
-ByteRtcEngineKit is available under the MIT license. See the LICENSE file for more info.
+ByteRtcCore is available under the MIT license. See the LICENSE file for more info.

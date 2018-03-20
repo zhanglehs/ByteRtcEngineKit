@@ -1,6 +1,0 @@
-framework module ByteRtcEngineKit {
-  umbrella header "ByteRtcEngineKit-umbrella.h"
-
-  export *
-  module * { export * }
-}

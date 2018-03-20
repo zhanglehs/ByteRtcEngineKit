@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint ByteRtcEngineKit.podspec' to ensure this is a
+# Be sure to run `pod lib lint ByteRtcCore.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'ByteRtcEngineKit'
-  s.version          = '1.1.5'
-  s.summary          = 'ByteRtcEngineKit is an realtime communication SDK of IOS'
+  s.name             = 'ByteRtcCore'
+  s.version          = '1.1.7'
+  s.summary          = 'ByteRtcCore is an realtime communication SDK of IOS.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,25 +17,25 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-#  s.description      = <<-DESC
-#TODO: Add long description of the pod here.
-#                       DESC
+  s.description      = <<-DESC
+TODO: Add long description of the pod here.
+                       DESC
 
   s.homepage         = 'https://github.com/zhanglehs/ByteRtcEngineKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'zhangle' => 'zhangle86@gmail.com' }
+  s.author           = { 'zhangle86@qq.com' => 'zhangle86@gmail.com' }
   s.source           = { :git => 'https://github.com/zhanglehs/ByteRtcEngineKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'ByteRtcEngineKit/Classes/**/*'
+  s.source_files = 'ByteRtcCore/Classes/**/*'
   
   s.vendored_libraries = 'ByteRtcEngineKit/Classes/WebRTC.framework'
   
   # s.resource_bundles = {
-  #   'ByteRtcEngineKit' => ['ByteRtcEngineKit/Assets/*.png']
+  #   'ByteRtcCore' => ['ByteRtcCore/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
