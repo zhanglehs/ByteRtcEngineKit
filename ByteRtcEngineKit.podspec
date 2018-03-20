@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ByteRtcEngineKit'
-  s.version          = '1.1.4'
+  s.version          = '1.1.5'
   s.summary          = 'ByteRtcEngineKit is an realtime communication SDK of IOS'
 
 # This description is used to generate tags and improve search results.
@@ -31,6 +31,8 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'ByteRtcEngineKit/Classes/**/*'
+  
+  s.vendored_libraries = 'ByteRtcEngineKit/Classes/WebRTC.framework'
   
   # s.resource_bundles = {
   #   'ByteRtcEngineKit' => ['ByteRtcEngineKit/Assets/*.png']
