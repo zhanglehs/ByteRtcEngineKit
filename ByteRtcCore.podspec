@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ByteRtcCore'
-  s.version          = '1.1.9'
+  s.version          = '1.1.10'
   s.summary          = 'ByteRtcCore is an realtime communication SDK of IOS.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  #s.source_files = 'ByteRtcCore/Classes/**/*'
+  s.source_files = 'WebRTC.framework'
   
   s.vendored_libraries = 'WebRTC.framework'
   
