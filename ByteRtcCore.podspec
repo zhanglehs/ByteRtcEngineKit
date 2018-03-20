@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ByteRtcCore'
-  s.version          = '1.1.11'
+  s.version          = '1.1.12'
   s.summary          = 'ByteRtcCore is an realtime communication SDK of IOS.'
 
 # This description is used to generate tags and improve search results.
@@ -42,4 +42,5 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'Socket.IO-Client-Swift', '~> 12.0.0'
 end
