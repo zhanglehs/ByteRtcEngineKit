@@ -2,8 +2,8 @@
 //  ByteRtcEngineKitTests.m
 //  ByteRtcEngineKitTests
 //
-//  Created by zhangle on 03/09/2018.
-//  Copyright (c) 2018 zhangle. All rights reserved.
+//  Created by zhangle86@qq.com on 03/20/2018.
+//  Copyright (c) 2018 zhangle86@qq.com. All rights reserved.
 //
 
 @import XCTest;
