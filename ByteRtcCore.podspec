@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ByteRtcCore'
-  s.version          = '1.1.12'
+  s.version          = '1.1.13'
   s.summary          = 'ByteRtcCore is an realtime communication SDK of IOS.'
 
 # This description is used to generate tags and improve search results.
